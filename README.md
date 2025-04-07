@@ -5,7 +5,7 @@
 </p>
 
 ---
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rajkamalsingh5.rajkamalsingh5)
 ### 👨‍💻 About Me
 
 - 🎓 3rd Year Student at NIT Bhopal  
@@ -38,9 +38,9 @@
 
 ### 🌐 Let's Connect!
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/raj-kamal-singh-94680521b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/raj-kamal-singh-94680521b/)  
 - 🧠 [LeetCode](https://leetcode.com/RKS_755/)  
-- 🌟 [Portfolio]([https://your-portfolio-link.com](https://portfolio-sigma-neon-65.vercel.app/)) *(optional)*  
+- 🌟 [Portfolio]([https://your-portfolio-link.com](https://portfolio-sigma-neon-65.vercel.app/)) 
 - 📫 Email: saurabhsingh75555@gmail.com  
 
 ---
