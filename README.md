@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm RaJ Kamal Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78A33&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Competitive+Programmer;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78A33&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Competitive+Programmer;Tech+Enthusiast;" alt="Typing SVG" />
 </p>
 
 ---
@@ -40,9 +40,9 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/raj-kamal-singh-94680521b/)  
 - 🧠 [LeetCode](https://leetcode.com/RKS_755/)  
-- 🌟 [Portfolio]([https://your-portfolio-link.com](https://portfolio-sigma-neon-65.vercel.app/)) 
+- 🌟 [Portfolio](https://portfolio-sigma-neon-65.vercel.app/) 
 - 📫 Email: saurabhsingh75555@gmail.com  
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
+⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.If u have something to share text/mail me (always there to help)*
